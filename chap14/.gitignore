@@ -1,0 +1,5 @@
+client[1-9]
+getdate
+getname
+server
+server[1-9]
